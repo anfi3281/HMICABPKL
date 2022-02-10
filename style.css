@@ -39,6 +39,11 @@ body {
     height: 80%;
 }
 
+.kartu2{
+    width: 90%;
+    height: 90%;
+}
+
 section.potret > div > div > div > div > div > * {
   color: black;
 }
