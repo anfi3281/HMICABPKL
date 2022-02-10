@@ -42,3 +42,7 @@ body {
 section.potret > div > div > div > div > div > * {
   color: black;
 }
+
+section{
+  padding-top: 5rem;
+}
