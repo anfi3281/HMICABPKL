@@ -34,7 +34,11 @@ body {
   margin-right: auto;
 }
 
-.kartu{
-    width: 80%;
-    height: 80%;
+.kartu {
+  width: 80%;
+  height: 80%;
+}
+
+section.potret,div > * {
+  color: black;
 }
